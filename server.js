@@ -36,7 +36,7 @@ app.get('/components', function(req, res){
 });
 
 app.use('/', function(req, res){
-   console.log('End');
+   console.log('EndFile');
 });
 
 var server = app.listen(3000,'localhost', function () {
