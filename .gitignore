@@ -1,0 +1,7 @@
+# Ignore these files
+*.env
+*.log
+*.txt
+
+# Ignore tracking following folders
+node_modules/
